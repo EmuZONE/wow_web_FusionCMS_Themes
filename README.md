@@ -1,5 +1,6 @@
 <h2>FusionCMS Themes and Modules</h2>
-![alt tag] (http://emuzone.bplaced.net/images/cooltext214603098601680.png)
+
+![alt tag] (http://82.165.75.185/fcmstm.png)
 
 
 
